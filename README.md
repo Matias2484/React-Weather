@@ -11,4 +11,4 @@ npm start
 
 ### What can you do
 
-You can search ani city in the world, and look its currently weather.
+You can search any city in the world, and look its currently weather.
