@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.ciudad {
+  background-image: url("../img/fondo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.container {
+  margin-top: 4rem;
+}
+.nombre {
+  font-weight: bold;
+}
+.info {
+  margin-top: 1rem;
+}
+.clear {
+  background-image: url("../img/soleado.jpg");
+  background: cover;
+  background-position: center;
+  border-radius: 5px;
+  border: 2px solid black;
+  width: 30%;
+  height: 20rem;
+  margin: auto;
+  margin-top: 4rem;
+  border-radius: 10px;
+}
+.rain {
+  background-image: url("../img/lluvia.jpg");
+  border-radius: 5px;
+  border: 3px solid black;
+  width: 30%;
+  height: 20rem;
+  margin: auto;
+  margin-top: 4rem;
+  border-radius: 10px;
+}
+.clouds {
+  background-image: url("../img/nublado.jpg");
+  border-radius: 5px;
+  border: 2px solid black;
+  width: 30%;
+  height: 20rem;
+  margin: auto;
+  margin-top: 4rem;
+  border-radius: 10px;
+}

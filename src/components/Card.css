@@ -1,0 +1,40 @@
+.card {
+  margin: 20px;
+  width: 18rem;
+  background-color: rgb(13, 34, 73);
+  border-radius: 1rem;
+  opacity: 0.8;
+}
+
+.card-title {
+  margin-bottom: 3rem;
+  text-decoration: none;
+}
+.card-title:hover {
+  color: white;
+  text-decoration: none;
+}
+#closeIcon {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 8px;
+  margin-top: 3px;
+}
+
+.card-body {
+  border-radius: 5px;
+  padding: 10px;
+}
+.row {
+  margin-left: 2rem;
+}
+
+.minimo {
+  color: blue;
+}
+.maximo {
+  color: red;
+}
+.iconoClima {
+  width: 10rem;
+}

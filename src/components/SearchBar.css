@@ -1,0 +1,19 @@
+.form {
+  margin: 0;
+}
+
+.busqueda {
+  border-radius: 4px;
+  background-color: rgb(13, 34, 73);
+  color: white;
+}
+.boton {
+  margin-left: 5px;
+  font-size: 15px;
+  background: rgb(70, 65, 65);
+  color: white;
+  border-radius: 5px;
+}
+.boton:hover {
+  background-color: rgb(13, 34, 73);
+}
