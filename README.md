@@ -9,6 +9,6 @@ npm install
 npm start
 
 
-### What can you do
+### What you can do
 
 You can search any city in the world, and look its currently weather.
